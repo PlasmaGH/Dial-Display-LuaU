@@ -1,10 +1,12 @@
 # Dial-Display-LuaU
-A simple "dial" display module written in LuaU for Roblox Studio.
+### A simple "dial" display module written in LuaU for Roblox Studio.
+
+---
 
 ![Dial](https://github.com/PlasmaGH/Dial-Display-LuaU/assets/77991203/5be66b8d-8e06-471f-8b29-877262fd6a9a)
 
 
-## Useage:
+## Usage:
 
 ```lua
 
