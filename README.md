@@ -18,7 +18,7 @@ local Dial = DialModule.new(
   nil, -- (TweenInfo) the tween info used for updating the slot. (This is the flip animation)
 )
 
-dialModule.update(Dial, -- Dial
+DialModule.update(Dial, -- Dial
   15 -- The number you want to display. With 3 slots this is expected to show up as "015"
 )
 
